@@ -1,0 +1,4 @@
+models:
+  - name: ga_sessions
+    config:
+      alias: sessions
