@@ -1,0 +1,9 @@
+xia:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: gcp-gloveiko-dev
+      keyfile: /Users/gautier/Documents/projects/dbt/gcp-gloveiko-dev-ad32a9c17034.json
+      threads: 4
